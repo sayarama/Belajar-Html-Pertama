@@ -1,0 +1,16 @@
+body{margin: 0;}
+
+
+.judul {
+    background-color:rgb(83, 163, 255);
+}
+.header{
+    width: 100%;
+    padding-left: 200px;
+    overflow: hidden;
+    background:#b1b1b1
+    
+
+    
+
+}
